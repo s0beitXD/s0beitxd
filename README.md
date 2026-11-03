@@ -20,6 +20,13 @@
   <img src="https://skillicons.dev/icons?i=docker,ansible,kubernetes,terraform,git" alt="Docker, Ansible, Kubernetes, Terraform, Git">
 </p>
 
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB"> &nbsp;
+  <img src="https://cdn.simpleicons.org/apachecouchdb/E42528" height="48" alt="CouchDB" title="CouchDB">
+</p>
+
 ## Cloud Providers
 
 <p>
@@ -27,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS">
 </p>
 
-## CI/CD
+## 🔄 CI/CD
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,gitlab,jenkins" alt="GitHub, GitLab, Jenkins">
