@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS">
 </p>
 
-## 🔄 CI/CD
+## CI/CD
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,gitlab,jenkins" alt="GitHub, GitLab, Jenkins">
